@@ -23,3 +23,6 @@ updates:
     schedule:
       interval: "daily"
 ```
+
+その他のオプションについては、以下のドキュメントを参照してください。
+https://docs.github.com/ja/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
